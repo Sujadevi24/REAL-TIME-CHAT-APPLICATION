@@ -46,3 +46,9 @@ Description:
 - *Improved User Experience:* Responsive design and dynamic interface
 - *Scalability:* Handle multiple users and conversations efficiently
 
+  #OUTPUT
+
+  https://github.com/user-attachments/assets/17a23579-ede7-46be-b8e1-e3a2b7ff5eed
+
+  
+
